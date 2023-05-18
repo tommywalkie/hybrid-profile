@@ -18,6 +18,7 @@
     </names>
     <sets>
         <set index="1">
+            <name>Desktop mode</name>
             <stick index="1">
                 <deadZone>5098</deadZone>
                 <maxZone>32737</maxZone>
@@ -282,6 +283,7 @@
             </button>
         </set>
         <set index="2">
+            <name>Controller mode</name>
             <trigger index="5">
                 <throttle>positivehalf</throttle>
             </trigger>
