@@ -5,7 +5,7 @@ This is a single AntiMicroX profile that includes 2 sets, which can be switched 
 - **Desktop mode**: Mouse controls and common keyboard shortcuts.
 - **Controller mode**: Regular Xbox gamepad controls.
 
-This is a light alternative to the [community Desktop profile](https://github.com/AntiMicroX/antimicrox-profiles/blob/aaaed99f602a36c63350c8bc465ba667b2569ecc/applications/Desktop/sdlgamecontroller/Desktop.gamecontroller.amgp) and its 4 sets (desktop mode, WASD mode, arrow key mode and controller mode), while featuring shortcuts for Xbox Game Bar and Go-to-Previous/Next, page and preferring sticks for mouse movement and scrolling.
+This is a light alternative to the [community Desktop profile](https://github.com/AntiMicroX/antimicrox-profiles/blob/aaaed99f602a36c63350c8bc465ba667b2569ecc/applications/Desktop/sdlgamecontroller/Desktop.gamecontroller.amgp) and its 4 sets (desktop mode, WASD mode, arrow key mode and controller mode), while featuring shortcuts for Xbox Game Bar and Go-to-Previous/Next page and preferring sticks for mouse movement and scrolling.
 
 
 ## Desktop mode
@@ -16,8 +16,8 @@ This is a light alternative to the [community Desktop profile](https://github.co
 | ![image](https://github.com/tommywalkie/hybrid-profile/assets/16148332/eef993a3-04a4-4c35-87e2-7531f8194e16) | B             | SUPER |
 | ![image](https://github.com/tommywalkie/hybrid-profile/assets/16148332/e2890592-834a-44ed-ac6e-0dca95f230be) | X             | Right click |
 | ![image](https://github.com/tommywalkie/hybrid-profile/assets/16148332/90bbb339-5f47-49d4-b3c2-5682921e4bcc) | Y             | Tab |
-| ![image](https://github.com/tommywalkie/hybrid-profile/assets/16148332/4ab4b092-3798-441c-933a-e32e251f221e) | LB            | ALT + Left |
-| ![image](https://github.com/tommywalkie/hybrid-profile/assets/16148332/99e6efc2-ff13-4699-9aae-b051e1ce8a03) | RB            | ALT + Right |
+| ![image](https://github.com/tommywalkie/hybrid-profile/assets/16148332/4ab4b092-3798-441c-933a-e32e251f221e) | LB            | ALT + Left (aka. go to previous page, works on file explorer and browsers) |
+| ![image](https://github.com/tommywalkie/hybrid-profile/assets/16148332/99e6efc2-ff13-4699-9aae-b051e1ce8a03) | RB            | ALT + Right (aka. go to next page, works on file explorer and browsers) |
 | ![image](https://github.com/tommywalkie/hybrid-profile/assets/16148332/47ebcdac-5697-4a44-957f-a63e3d607c0c) | LT            | ALT + F4 |
 | ![image](https://github.com/tommywalkie/hybrid-profile/assets/16148332/8d9a8772-91ea-4d18-b33c-7202b38eed05) | RT            | Enter |
 | ![image](https://github.com/tommywalkie/hybrid-profile/assets/16148332/e1c7d0c3-b867-41f6-aa45-52b28ab71dfb) | LS            | Scrollwheel click |
