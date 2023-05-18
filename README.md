@@ -5,7 +5,7 @@ This is a single AntiMicroX profile that includes 2 sets, which can be switched 
 - **Desktop mode**: Mouse controls and common keyboard shortcuts.
 - **Controller mode**: Regular Xbox gamepad controls.
 
-This is a light alternative to the [community Desktop profile](https://github.com/AntiMicroX/antimicrox-profiles/blob/aaaed99f602a36c63350c8bc465ba667b2569ecc/applications/Desktop/sdlgamecontroller/Desktop.gamecontroller.amgp) and its 4 sets (desktop mode, WASD mode, arrow key mode and controller mode), while featuring shortcuts for Xbox Game Bar and Go-to-Previous/Next page and preferring sticks for mouse movement and scrolling.
+This provides a lightweight alternative to the [community Desktop profile](https://github.com/AntiMicroX/antimicrox-profiles/blob/aaaed99f602a36c63350c8bc465ba667b2569ecc/applications/Desktop/sdlgamecontroller/Desktop.gamecontroller.amgp) and its 4 sets (desktop mode, WASD mode, arrow key mode, and controller mode), while also featuring Xbox Game Bar shortcuts, page navigation shortcuts, force window closing, and preferential use of sticks for mouse movement and scrolling.
 
 
 ## Desktop mode
